@@ -1,1 +1,3 @@
-# html-portfolio
+1st August 2025
+Damn, I have taken almost an year break from learning web development and i left it off after diving inot advanced css....
+From now on, I will try to upload some repositories showcasing my work in the field of web dev and some other crazy stuffs which i will learn along the way 
